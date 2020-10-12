@@ -4,6 +4,7 @@ import android.content.ContentValues;
 import android.content.Intent;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
@@ -85,6 +86,9 @@ public class MainActivity extends AppCompatActivity {
         Intent infoIntent = new Intent(this,InfoActivity.class);
         startActivity(infoIntent);
         return super.onOptionsItemSelected(item);
+    }
+    public void createMapIntent(View view){
+        Uri uri = Uri.parse("geo:0,0?q=618 E South St Orlando, FL 32801");
     }
 
     private void addCandiesToDatabase(Candy[] candies) {
