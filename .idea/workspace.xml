@@ -11,7 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602526778844</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Initial Commit">
+      <created>1602527141238</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602527141238</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -203,10 +210,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="234" y="0" width="887" height="768" key="CommitChangelistDialog2" timestamp="1602526778682">
+    <state x="491" y="96" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1602527248190">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="234" y="0" width="887" height="768" key="CommitChangelistDialog2/0.768.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1602526778682" />
+    <state x="491" y="96" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/0.768.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1602527248190" />
+    <state x="234" y="0" width="887" height="768" key="CommitChangelistDialog2" timestamp="1602527141100">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="234" y="0" width="887" height="768" key="CommitChangelistDialog2/0.768.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1602527141100" />
     <state width="1320" height="181" key="GridCell.Tab.0.bottom" timestamp="1602525866362">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -223,13 +234,17 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1320" height="181" key="GridCell.Tab.0.right/0.768.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1602525866361" />
-    <state x="278" y="120" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1602526787609">
+    <state x="278" y="120" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1602527157135">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="278" y="120" width="800" height="535" key="Vcs.Push.Dialog.v2/0.768.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1602526787609" />
+    <state x="278" y="120" width="800" height="535" key="Vcs.Push.Dialog.v2/0.768.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1602527157135" />
     <state x="284" y="177" width="787" height="420" key="git4idea.merge.GitPullDialog" timestamp="1602523855028">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="284" y="177" width="787" height="420" key="git4idea.merge.GitPullDialog/0.768.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1602523855028" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602527316397">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.768.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1602527316397" />
   </component>
 </project>
