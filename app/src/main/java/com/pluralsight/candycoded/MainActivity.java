@@ -87,9 +87,6 @@ public class MainActivity extends AppCompatActivity {
         startActivity(infoIntent);
         return super.onOptionsItemSelected(item);
     }
-    public void createMapIntent(View view){
-        Uri uri = Uri.parse("geo:0,0?q=618 E South St Orlando, FL 32801");
-    }
 
     private void addCandiesToDatabase(Candy[] candies) {
         SQLiteDatabase db = candyDbHelper.getWritableDatabase();
