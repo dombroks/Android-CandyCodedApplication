@@ -181,7 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602526320361</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial Commit">
+      <created>1602526602005</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602526602005</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial Commit">
+      <created>1602526778844</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602526778844</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -189,10 +203,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="234" y="0" width="887" height="768" key="CommitChangelistDialog2" timestamp="1602526601875">
+    <state x="234" y="0" width="887" height="768" key="CommitChangelistDialog2" timestamp="1602526778682">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="234" y="0" width="887" height="768" key="CommitChangelistDialog2/0.768.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1602526601875" />
+    <state x="234" y="0" width="887" height="768" key="CommitChangelistDialog2/0.768.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1602526778682" />
     <state width="1320" height="181" key="GridCell.Tab.0.bottom" timestamp="1602525866362">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -209,10 +223,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1320" height="181" key="GridCell.Tab.0.right/0.768.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1602525866361" />
-    <state x="278" y="120" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1602526611119">
+    <state x="278" y="120" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1602526787609">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="278" y="120" width="800" height="535" key="Vcs.Push.Dialog.v2/0.768.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1602526611119" />
+    <state x="278" y="120" width="800" height="535" key="Vcs.Push.Dialog.v2/0.768.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1602526787609" />
     <state x="284" y="177" width="787" height="420" key="git4idea.merge.GitPullDialog" timestamp="1602523855028">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
